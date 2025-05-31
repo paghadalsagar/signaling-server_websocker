@@ -1,5 +1,5 @@
 {
-  "name": "node-server",
+  "name": "server",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,11 +8,14 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.20.0",
+    "express": "^4.21.2",
     "ip": "^2.0.1",
-    "socket.io": "^4.7.5"
+    "socket.io": "^4.8.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
-  }
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
 }
